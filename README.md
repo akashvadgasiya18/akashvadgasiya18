@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Akash Vadgasiya
 
 # 💫 About Me:
-✨ Akash Here!<br> 💻 FullStack developer <br>🤝 I'm open to collaborating on Web Development Projects<br> ✉️ Contact me through akashvadgasiya1832@gmail.com<br>
+✨ Akash Here!<br> 💻 Full-Stack Developer <br>🤝 I'm open to collaborating on Web Development Projects<br> ✉️ Contact me through akashvadgasiya1832@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-vadgasiya-9386b0244) 
